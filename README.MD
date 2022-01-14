@@ -1,8 +1,17 @@
 iCat-中文广播剧
 ========
-MKOnlineMusicPlayer 是一款全屏的音乐播放器 UI 框架（为避免侵权，已移除所有后端功能）。
+# iCat-Pic
+iCat 爱吃肉的猫 jsDelivr加速
 
-前端界面参照 QQ 音乐网页版进行布局，同时采用了流行的响应式设计，无论是在PC端还是在手机端，均能给您带来原生 app 般的使用体验。
+jsDelivr：https://www.jsdelivr.com/
+
+主站：https://meuicat.com/
+
+GitHub：https://yife68.github.io/
+
+Gitee：https://yife68.gitee.io/
+
+
 
 > 本项目仅为学习前端的练手之作，请勿用作商业用途，请勿利用本项目搭建盗版音乐网站，否则后果自负！
 
@@ -79,3 +88,5 @@ MKOnlineMusicPlayer 是一款全屏的音乐播放器 UI 框架（为避免侵�
 原因：未经允许，删改版权信息(http://music.68xi.com/ )，并发布到淘宝售卖(https://item.taobao.com/item.htm?id=547226809330 )
 
 `奉劝某些“人”保留住做人的最基本底线，遵守开源协议，并引以为戒`
+
+最后更新时间：2022.01.14 20：37
