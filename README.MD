@@ -1,4 +1,4 @@
-MKOnlineMusicPlayer
+iCat-中文广播剧
 ========
 MKOnlineMusicPlayer 是一款全屏的音乐播放器 UI 框架（为避免侵权，已移除所有后端功能）。
 
