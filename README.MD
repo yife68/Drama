@@ -34,58 +34,15 @@ Gitee：https://yife68.gitee.io/
 **遇到问题请详细阅读以上 wiki！**
 
 
-### 开发文档[待完善]
------
-#### 播放列表DIY教程
-本播放器支持后台自定义播放列表。打开 `js/musicList.js`，按照里面的说明对应修改即可。
 
-#### 播放器DIY教程
-除了自定义播放列表，本播放器还支持一些 DIY 设定，比如修改 api.php 文件的默认路径、修改搜索框的默认搜索内容等。具体请打开 `js/player.js` 查看
+iCat 爱吃肉的猫 中文广播剧程序Git存放处 未经授权禁止下载使用
 
-#### rem 变量表
-程序中的rem数组用于存储全局变量，具体的成员(部分)及作用见下表：
+iCat广播剧：[传送门](http://meuicat.com/Drama/)
 
-| 变量名    | 用途   |
-| ----------- | ----------- |
-| rem.audio | audio dom |
-| rem.playlist | 当前正在播放的播放列表编号 |
-| rem.playid | 正在播放的这首歌在播放列表中的编号 |
-| rem.dislist | 当前显示的列表的列表编号 |
-| rem.loadPage | 搜索功能已加载的页码 |
-| rem.wd | 当前的搜索词 |
-| rem.source | 当前选定的音乐源 |
-| rem.uid | 当前已同步的用户的网易云 ID |
-| rem.uname | 已登录用户的用户名 |
-| rem.sheetList | 歌单容器操作对象 |
-| rem.mainList | 歌曲列表容器操作对象 |
-| rem.isMobile | 是否是手机浏览 |
+iCat无敌版传送门：召唤神龙
 
-### 致谢
------
-#### 特别感谢 `@metowolf`、`网易云音乐`、`QQ音乐`、`虾米`、`酷狗`、`百度音乐`
-
-#### 采用的开源模块
-- **Jquery**：js主流开发框架 [http://jquery.com/](http://jquery.com/)
-- **Meting**：一个高效的多平台音乐 API 框架 [https://github.com/metowolf/Meting](https://github.com/metowolf/Meting)
-- **layer**：一款强大的web弹层组件 [http://layer.layui.com/](http://layer.layui.com/)
-- **mCustomScrollbar**：jQuery自定义滚动条样式插件 [http://manos.malihu.gr/jquery-custom-content-scroller/](http://manos.malihu.gr/jquery-custom-content-scroller/)
-- **background-blur**：跨浏览器磨砂效果背景图片模糊特效插件 [https://msurguy.github.io/background-blur/](https://msurguy.github.io/background-blur/)
-- **Let's Kill IE6**：消灭IE [http://overtrue.me](http://overtrue.me)
-
-##### 在开发过程中，还参照了很多开源 html 播放器的相关代码，在此一并向他们表示感谢！
-
-### 耻辱柱
------
-恭喜下列个人或单位永久入驻耻辱柱！
-
-#### 素材火 [http://www.sucaihuo.com/]
-原因：以积分的形式变相售卖本作品(http://www.sucaihuo.com/php/3378.html ) 截图：https://t.cn/RFsgAAw
-
-#### 绿岛资源站 [http://www.ldzy.cc/]
-原因：未经允许，发布到淘宝售卖(https://item.taobao.com/item.htm?id=560064138441 ) 截图：https://t.cn/RlNRmi5
-
-#### 68喜论坛 [http://www.68xi.com/]
-原因：未经允许，删改版权信息(http://music.68xi.com/ )，并发布到淘宝售卖(https://item.taobao.com/item.htm?id=547226809330 )
+# 版权
+本页一切源代码最终所有权归 `iCat 爱吃肉的猫` 所有
 
 `奉劝某些“人”保留住做人的最基本底线，遵守开源协议，并引以为戒`
 
