@@ -199,6 +199,6 @@ function range_slider(){
       window.location.href="#";
       }
       else {
-      window.location.href="/pc"; }
+      window.location.href="./pc"; }
       }
       goPAGE();
