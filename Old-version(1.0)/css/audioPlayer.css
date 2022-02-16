@@ -1,0 +1,83 @@
+.body{
+    background: #49b1f5;
+}
+
+.btn{
+    height: 32px;
+    width: 32px;
+    cursor: pointer;
+}
+
+.play{
+    display: block;
+}
+
+.pause{
+    display: none;
+}
+
+.audioPlayer{
+    position: relative;
+    width: 70%;
+    height: 46px;
+    border-radius: 10px;
+    margin: 200px auto;
+    padding-top: 14px;
+    padding-left: 32px;
+    background-color: #00c4b6;
+}
+
+.haud{
+    width: 100%;
+    height: 45px;
+    text-align: center;
+    margin: 0 auto;
+}
+
+.totalProgress{
+    cursor: pointer;
+    position: absolute;
+    top: 38px;
+    left: 80px;
+    width: 72%;
+    height: 8px;
+    background-color: white;
+    border-radius: 4px;
+}
+
+.currentProgress{
+    width: 0;
+    height: 100%;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    background-color: #00a1d6;
+}
+
+.time{
+    display: block;
+    margin-left: 10px;
+    position: absolute;
+    top: 15px;
+    left: 72px;
+    color: white;
+}
+
+.icat {
+    -webkit-transition-duration: 0.4s;
+    transition-duration: 0.4s;
+    padding: 16px 64px;
+    text-align: center;
+    background-color: white;
+    color: black;
+    border: 2px solid #49b1f5;
+    border-radius:5px;
+  }
+  .icat:hover {
+    background-color: #00c4b6;
+    color: white;
+  }
+  
+  .icatjz {
+    text-align: center;
+    margin-top: 10px;
+  }
