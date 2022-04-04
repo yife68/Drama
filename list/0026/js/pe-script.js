@@ -28,50 +28,68 @@ let All_song = [
   {
     name: "重生之将门毒后",
     path: "https://res.wx.qq.com/voice/getvoice?mediaid=MzkyOTI3MTA4MV8xMDAwMDAzODE=",
-    img: "https://cdn.jsdelivr.net/gh/yife68/iCat-Pic@v3.0.4/2022/03.03/1.png",
+    img: "https://yife68.gitee.io/icat-pic-2022/03/03/3.png",
     singer: "第一集"
   },
   {
     name: "重生之将门毒后",
     path: "https://res.wx.qq.com/voice/getvoice?mediaid=MzkyOTI3MTA4MV8xMDAwMDAzODI=",
-    img: "https://cdn.jsdelivr.net/gh/yife68/iCat-Pic@v3.0.4/2022/03.03/1.png",
+    img: "https://yife68.gitee.io/icat-pic-2022/03/03/3.png",
     singer: "第二集"
   },
   {
     name: "重生之将门毒后",
     path: "https://res.wx.qq.com/voice/getvoice?mediaid=MzkyOTI3MTA4MV8xMDAwMDAzODM=",
-    img: "https://cdn.jsdelivr.net/gh/yife68/iCat-Pic@v3.0.4/2022/03.03/1.png",
+    img: "https://yife68.gitee.io/icat-pic-2022/03/03/3.png",
     singer: "第三集"
   },
   {
     name: "重生之将门毒后",
     path: "https://res.wx.qq.com/voice/getvoice?mediaid=MzkyOTI3MTA4MV8xMDAwMDAzODQ=",
-    img: "https://cdn.jsdelivr.net/gh/yife68/iCat-Pic@v3.0.4/2022/03.03/1.png",
+    img: "https://yife68.gitee.io/icat-pic-2022/03/03/3.png",
     singer: "第四集"
   },
   {
    name: "重生之将门毒后",
    path: "https://res.wx.qq.com/voice/getvoice?mediaid=MzkyOTI3MTA4MV8xMDAwMDAzODU=",
-   img: "https://cdn.jsdelivr.net/gh/yife68/iCat-Pic@v3.0.4/2022/03.03/1.png",
+   img: "https://yife68.gitee.io/icat-pic-2022/03/03/3.png",
    singer: "第五集"
  },
  {
    name: "重生之将门毒后",
    path: "https://res.wx.qq.com/voice/getvoice?mediaid=MzkyOTI3MTA4MV8xMDAwMDAzODY=",
-   img: "https://cdn.jsdelivr.net/gh/yife68/iCat-Pic@v3.0.4/2022/03.03/1.png",
+   img: "https://yife68.gitee.io/icat-pic-2022/03/03/3.png",
    singer: "第六集"
  },
  {
    name: "重生之将门毒后",
    path: "https://res.wx.qq.com/voice/getvoice?mediaid=MzkyOTI3MTA4MV8xMDAwMDAzODc=",
-   img: "https://cdn.jsdelivr.net/gh/yife68/iCat-Pic@v3.0.4/2022/03.03/1.png",
+   img: "https://yife68.gitee.io/icat-pic-2022/03/03/3.png",
    singer: "第七集"
  },
  {
    name: "重生之将门毒后",
    path: "https://res.wx.qq.com/voice/getvoice?mediaid=MzkyOTI3MTA4MV8xMDAwMDAzODg=",
-   img: "https://cdn.jsdelivr.net/gh/yife68/iCat-Pic@v3.0.4/2022/03.03/1.png",
+   img: "https://yife68.gitee.io/icat-pic-2022/03/03/3.png",
    singer: "第八集"
+ },
+ {
+   name: "重生之将门毒后",
+   path: "https://res.wx.qq.com/voice/getvoice?mediaid=MzkyOTI3MTA4MV8xMDAwMDA1Mzg=",
+   img: "https://yife68.gitee.io/icat-pic-2022/03/03/3.png",
+   singer: "第九集"
+ },
+ {
+   name: "重生之将门毒后",
+   path: "https://res.wx.qq.com/voice/getvoice?mediaid=MzkyOTI3MTA4MV8xMDAwMDA1Mzk=",
+   img: "https://yife68.gitee.io/icat-pic-2022/03/03/3.png",
+   singer: "第十集"
+ },
+ {
+   name: "重生之将门毒后",
+   path: "https://res.wx.qq.com/voice/getvoice?mediaid=MzkyOTI3MTA4MV8xMDAwMDA1NDA=",
+   img: "https://yife68.gitee.io/icat-pic-2022/03/03/3.png",
+   singer: "第十一集"
  }
 ];
 

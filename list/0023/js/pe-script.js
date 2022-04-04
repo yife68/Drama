@@ -28,127 +28,127 @@ let All_song = [
   {
     name: "老婆粉了解一下 第一季",
     path: "https://res.wx.qq.com/voice/getvoice?mediaid=MzkyOTI3MTA4MV8xMDAwMDAzMjI=",
-    img: "https://cdn.jsdelivr.net/gh/yife68/iCat-Pic@v3.0.1/2022/02.14/6.png",
+    img: "https://yife68.gitee.io/icat-pic-2022/01/26/2.png",
     singer: "第一集"
   },
   {
     name: "老婆粉了解一下 第一季",
     path: "https://res.wx.qq.com/voice/getvoice?mediaid=MzkyOTI3MTA4MV8xMDAwMDAzMjM=",
-    img: "https://cdn.jsdelivr.net/gh/yife68/iCat-Pic@v3.0.1/2022/02.14/6.png",
+    img: "https://yife68.gitee.io/icat-pic-2022/01/26/2.png",
     singer: "第二集"
   },
   {
     name: "老婆粉了解一下 第一季",
     path: "https://res.wx.qq.com/voice/getvoice?mediaid=MzkyOTI3MTA4MV8xMDAwMDAzMjQ=",
-    img: "https://cdn.jsdelivr.net/gh/yife68/iCat-Pic@v3.0.1/2022/02.14/6.png",
+    img: "https://yife68.gitee.io/icat-pic-2022/01/26/2.png",
     singer: "第三集"
   },
   {
     name: "老婆粉了解一下 第一季",
     path: "https://res.wx.qq.com/voice/getvoice?mediaid=MzkyOTI3MTA4MV8xMDAwMDAzMjU=",
-    img: "https://cdn.jsdelivr.net/gh/yife68/iCat-Pic@v3.0.1/2022/02.14/6.png",
+    img: "https://yife68.gitee.io/icat-pic-2022/01/26/2.png",
     singer: "第四集"
   },
   {
    name: "老婆粉了解一下 第一季",
    path: "https://res.wx.qq.com/voice/getvoice?mediaid=MzkyOTI3MTA4MV8xMDAwMDAzMjY=",
-   img: "https://cdn.jsdelivr.net/gh/yife68/iCat-Pic@v3.0.1/2022/02.14/6.png",
+   img: "https://yife68.gitee.io/icat-pic-2022/01/26/2.png",
    singer: "第五集"
  },
  {
    name: "老婆粉了解一下 第一季",
    path: "https://res.wx.qq.com/voice/getvoice?mediaid=MzkyOTI3MTA4MV8xMDAwMDAzMjc=",
-   img: "https://cdn.jsdelivr.net/gh/yife68/iCat-Pic@v3.0.1/2022/02.14/6.png",
+   img: "https://yife68.gitee.io/icat-pic-2022/01/26/2.png",
    singer: "第六集"
  },
  {
    name: "老婆粉了解一下 第一季",
    path: "https://res.wx.qq.com/voice/getvoice?mediaid=MzkyOTI3MTA4MV8xMDAwMDAzMjg=",
-   img: "https://cdn.jsdelivr.net/gh/yife68/iCat-Pic@v3.0.1/2022/02.14/6.png",
+   img: "https://yife68.gitee.io/icat-pic-2022/01/26/2.png",
    singer: "第七集"
  },
  {
    name: "老婆粉了解一下 第一季",
    path: "https://res.wx.qq.com/voice/getvoice?mediaid=MzkyOTI3MTA4MV8xMDAwMDAzMjk=",
-   img: "https://cdn.jsdelivr.net/gh/yife68/iCat-Pic@v3.0.1/2022/02.14/6.png",
+   img: "https://yife68.gitee.io/icat-pic-2022/01/26/2.png",
    singer: "第八集"
  },
  {
    name: "老婆粉了解一下 第一季",
    path: "https://res.wx.qq.com/voice/getvoice?mediaid=MzkyOTI3MTA4MV8xMDAwMDAzMzA=",
-   img: "https://cdn.jsdelivr.net/gh/yife68/iCat-Pic@v3.0.1/2022/02.14/6.png",
+   img: "https://yife68.gitee.io/icat-pic-2022/01/26/2.png",
    singer: "第九集"
  },
  {
    name: "老婆粉了解一下 第一季",
    path: "https://res.wx.qq.com/voice/getvoice?mediaid=MzkyOTI3MTA4MV8xMDAwMDAzMzE=",
-   img: "https://cdn.jsdelivr.net/gh/yife68/iCat-Pic@v3.0.1/2022/02.14/6.png",
+   img: "https://yife68.gitee.io/icat-pic-2022/01/26/2.png",
    singer: "第十集"
  },
  {
    name: "老婆粉了解一下 第一季",
    path: "https://res.wx.qq.com/voice/getvoice?mediaid=MzkyOTI3MTA4MV8xMDAwMDAzMzI=",
-   img: "https://cdn.jsdelivr.net/gh/yife68/iCat-Pic@v3.0.1/2022/02.14/6.png",
+   img: "https://yife68.gitee.io/icat-pic-2022/01/26/2.png",
    singer: "第十一集"
  },
  {
    name: "老婆粉了解一下 第一季",
    path: "https://res.wx.qq.com/voice/getvoice?mediaid=MzkyOTI3MTA4MV8xMDAwMDAzMzM=",
-   img: "https://cdn.jsdelivr.net/gh/yife68/iCat-Pic@v3.0.1/2022/02.14/6.png",
+   img: "https://yife68.gitee.io/icat-pic-2022/01/26/2.png",
    singer: "第十二集"
  },
  {
    name: "老婆粉了解一下 第一季",
    path: "https://res.wx.qq.com/voice/getvoice?mediaid=MzkyOTI3MTA4MV8xMDAwMDAzMzQ=",
-   img: "https://cdn.jsdelivr.net/gh/yife68/iCat-Pic@v3.0.1/2022/02.14/6.png",
+   img: "https://yife68.gitee.io/icat-pic-2022/01/26/2.png",
    singer: "第十三集"
  },
  {
    name: "老婆粉了解一下 第一季",
    path: "https://res.wx.qq.com/voice/getvoice?mediaid=MzkyOTI3MTA4MV8xMDAwMDAzMzU=",
-   img: "https://cdn.jsdelivr.net/gh/yife68/iCat-Pic@v3.0.1/2022/02.14/6.png",
+   img: "https://yife68.gitee.io/icat-pic-2022/01/26/2.png",
    singer: "第十四集"
  },
  {
    name: "老婆粉了解一下 第一季",
    path: "https://res.wx.qq.com/voice/getvoice?mediaid=MzkyOTI3MTA4MV8xMDAwMDAzMzY=",
-   img: "https://cdn.jsdelivr.net/gh/yife68/iCat-Pic@v3.0.1/2022/02.14/6.png",
+   img: "https://yife68.gitee.io/icat-pic-2022/01/26/2.png",
    singer: "第十五集"
  },
  {
    name: "老婆粉了解一下 第一季",
    path: "https://res.wx.qq.com/voice/getvoice?mediaid=MzkyOTI3MTA4MV8xMDAwMDAzMzc=",
-   img: "https://cdn.jsdelivr.net/gh/yife68/iCat-Pic@v3.0.1/2022/02.14/6.png",
+   img: "https://yife68.gitee.io/icat-pic-2022/01/26/2.png",
    singer: "第十六集"
  },
  {
    name: "老婆粉了解一下 第一季",
    path: "https://res.wx.qq.com/voice/getvoice?mediaid=MzkyOTI3MTA4MV8xMDAwMDAzMzg=",
-   img: "https://cdn.jsdelivr.net/gh/yife68/iCat-Pic@v3.0.1/2022/02.14/6.png",
+   img: "https://yife68.gitee.io/icat-pic-2022/01/26/2.png",
    singer: "第十七集"
  },
  {
    name: "老婆粉了解一下 第一季",
    path: "https://res.wx.qq.com/voice/getvoice?mediaid=MzkyOTI3MTA4MV8xMDAwMDAzMzk=",
-   img: "https://cdn.jsdelivr.net/gh/yife68/iCat-Pic@v3.0.1/2022/02.14/6.png",
+   img: "https://yife68.gitee.io/icat-pic-2022/01/26/2.png",
    singer: "第十八集"
  },
  {
    name: "老婆粉了解一下 第一季",
    path: "https://res.wx.qq.com/voice/getvoice?mediaid=MzkyOTI3MTA4MV8xMDAwMDAzNDA=",
-   img: "https://cdn.jsdelivr.net/gh/yife68/iCat-Pic@v3.0.1/2022/02.14/6.png",
+   img: "https://yife68.gitee.io/icat-pic-2022/01/26/2.png",
    singer: "第十九集"
  },
  {
    name: "老婆粉了解一下 第一季",
    path: "https://res.wx.qq.com/voice/getvoice?mediaid=MzkyOTI3MTA4MV8xMDAwMDAzNDE=",
-   img: "https://cdn.jsdelivr.net/gh/yife68/iCat-Pic@v3.0.1/2022/02.14/6.png",
+   img: "https://yife68.gitee.io/icat-pic-2022/01/26/2.png",
    singer: "第二十集"
  },
  {
    name: "老婆粉了解一下 第一季",
    path: "https://res.wx.qq.com/voice/getvoice?mediaid=MzkyOTI3MTA4MV8xMDAwMDAzNDI=",
-   img: "https://cdn.jsdelivr.net/gh/yife68/iCat-Pic@v3.0.1/2022/02.14/6.png",
+   img: "https://yife68.gitee.io/icat-pic-2022/01/26/2.png",
    singer: "番外1"
  }
 ];

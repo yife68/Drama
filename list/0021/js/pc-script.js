@@ -29,37 +29,37 @@ let All_song = [
    {
      name: "不二之臣",
      path: "https://res.wx.qq.com/voice/getvoice?mediaid=MzkyOTI3MTA4MV8xMDAwMDAxNjQ=",
-     img: "https://cdn.jsdelivr.net/gh/yife68/iCat-Pic@v3.0.1/2022/02.14/5.png",
+     img: "https://yife68.gitee.io/icat-pic-2022/01/21/2.png",
      singer: "第一集"
    },
    {
      name: "不二之臣",
      path: "https://res.wx.qq.com/voice/getvoice?mediaid==MzkyOTI3MTA4MV8xMDAwMDAxNjU=",
-     img: "https://cdn.jsdelivr.net/gh/yife68/iCat-Pic@v3.0.1/2022/02.14/5.png",
+     img: "https://yife68.gitee.io/icat-pic-2022/01/21/2.png",
      singer: "第二集"
    },
    {
      name: "不二之臣",
      path: "https://res.wx.qq.com/voice/getvoice?mediaid=MzkyOTI3MTA4MV8xMDAwMDAxNjY=",
-     img: "https://cdn.jsdelivr.net/gh/yife68/iCat-Pic@v3.0.1/2022/02.14/5.png",
+     img: "https://yife68.gitee.io/icat-pic-2022/01/21/2.png",
      singer: "第三集"
    },
    {
      name: "不二之臣",
      path: "https://res.wx.qq.com/voice/getvoice?mediaid=MzkyOTI3MTA4MV8xMDAwMDAxNjc=",
-     img: "https://cdn.jsdelivr.net/gh/yife68/iCat-Pic@v3.0.1/2022/02.14/5.png",
+     img: "https://yife68.gitee.io/icat-pic-2022/01/21/2.png",
      singer: "第四集"
    },
    {
     name: "不二之臣",
     path: "https://res.wx.qq.com/voice/getvoice?mediaid=MzkyOTI3MTA4MV8xMDAwMDAxNjg=",
-    img: "https://cdn.jsdelivr.net/gh/yife68/iCat-Pic@v3.0.1/2022/02.14/5.png",
+    img: "https://yife68.gitee.io/icat-pic-2022/01/21/2.png",
     singer: "第五集"
   },
   {
     name: "不二之臣",
     path: "https://res.wx.qq.com/voice/getvoice?mediaid=MzkyOTI3MTA4MV8xMDAwMDAxNjk=",
-    img: "https://cdn.jsdelivr.net/gh/yife68/iCat-Pic@v3.0.1/2022/02.14/5.png",
+    img: "https://yife68.gitee.io/icat-pic-2022/01/21/2.png",
     singer: "第六集"
   }
 ];

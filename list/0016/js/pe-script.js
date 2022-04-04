@@ -26,123 +26,123 @@ let track = document.createElement('audio');
 //All songs list
 let All_song = [
   {
-    name: "如果月亮不抱你",
+    name: "难哄",
     path: "https://res.wx.qq.com/voice/getvoice?mediaid=MzA4Mzk1NzY3Ml8xMDAwMDQzNTE=",
-    img: "https://cdn.jsdelivr.net/gh/yife68/iCat-Pic@v3.0.1/2022/02.14/2.png",
+    img: "https://yife68.gitee.io/icat-pic-2022/01/13/2.png",
     singer: "第一集"
   },
   {
-    name: "如果月亮不抱你",
+    name: "难哄",
     path: "https://res.wx.qq.com/voice/getvoice?mediaid=MzA4Mzk1NzY3Ml8xMDAwMDQzNTI=",
-    img: "https://cdn.jsdelivr.net/gh/yife68/iCat-Pic@v3.0.1/2022/02.14/2.png",
+    img: "https://yife68.gitee.io/icat-pic-2022/01/13/2.png",
     singer: "第二集"
   },
   {
-    name: "如果月亮不抱你",
+    name: "难哄",
     path: "https://res.wx.qq.com/voice/getvoice?mediaid=MzA4Mzk1NzY3Ml8xMDAwMDQzNTM=",
-    img: "https://cdn.jsdelivr.net/gh/yife68/iCat-Pic@v3.0.1/2022/02.14/2.png",
+    img: "https://yife68.gitee.io/icat-pic-2022/01/13/2.png",
     singer: "第三集"
   },
   {
-    name: "如果月亮不抱你",
+    name: "难哄",
     path: "https://res.wx.qq.com/voice/getvoice?mediaid=MzA4Mzk1NzY3Ml8xMDAwMDQzNTQ=",
-    img: "https://cdn.jsdelivr.net/gh/yife68/iCat-Pic@v3.0.1/2022/02.14/2.png",
+    img: "https://yife68.gitee.io/icat-pic-2022/01/13/2.png",
     singer: "第四集"
   },
   {
-   name: "如果月亮不抱你",
+   name: "难哄",
    path: "https://res.wx.qq.com/voice/getvoice?mediaid=MzA4Mzk1NzY3Ml8xMDAwMDQzNTU=",
-   img: "https://cdn.jsdelivr.net/gh/yife68/iCat-Pic@v3.0.1/2022/02.14/2.png",
+   img: "https://yife68.gitee.io/icat-pic-2022/01/13/2.png",
    singer: "第五集"
  },
  {
-   name: "如果月亮不抱你",
+   name: "难哄",
    path: "https://res.wx.qq.com/voice/getvoice?mediaid=MzA4Mzk1NzY3Ml8xMDAwMDQ0MzM=",
-   img: "https://cdn.jsdelivr.net/gh/yife68/iCat-Pic@v3.0.1/2022/02.14/2.png",
+   img: "https://yife68.gitee.io/icat-pic-2022/01/13/2.png",
    singer: "第六集"
  },
  {
-   name: "如果月亮不抱你",
+   name: "难哄",
    path: "https://res.wx.qq.com/voice/getvoice?mediaid=MzA4Mzk1NzY3Ml8xMDAwMDQ0MzQ=",
-   img: "https://cdn.jsdelivr.net/gh/yife68/iCat-Pic@v3.0.1/2022/02.14/2.png",
+   img: "https://yife68.gitee.io/icat-pic-2022/01/13/2.png",
    singer: "第七集"
  },
  {
-   name: "如果月亮不抱你",
+   name: "难哄",
    path: "https://res.wx.qq.com/voice/getvoice?mediaid=MzA4Mzk1NzY3Ml8xMDAwMDQ0MzU=",
-   img: "https://cdn.jsdelivr.net/gh/yife68/iCat-Pic@v3.0.1/2022/02.14/2.png",
+   img: "https://yife68.gitee.io/icat-pic-2022/01/13/2.png",
    singer: "第八集"
  },
  {
-   name: "如果月亮不抱你",
+   name: "难哄",
    path: "https://res.wx.qq.com/voice/getvoice?mediaid=MzA4Mzk1NzY3Ml8xMDAwMDQ0MzY=",
-   img: "https://cdn.jsdelivr.net/gh/yife68/iCat-Pic@v3.0.1/2022/02.14/2.png",
+   img: "https://yife68.gitee.io/icat-pic-2022/01/13/2.png",
    singer: "第九集"
  },
  {
-   name: "如果月亮不抱你",
+   name: "难哄",
    path: "https://res.wx.qq.com/voice/getvoice?mediaid=MzA4Mzk1NzY3Ml8xMDAwMDQ0Mzc=",
-   img: "https://cdn.jsdelivr.net/gh/yife68/iCat-Pic@v3.0.1/2022/02.14/2.png",
+   img: "https://yife68.gitee.io/icat-pic-2022/01/13/2.png",
    singer: "第十集"
  },
  {
-   name: "如果月亮不抱你",
+   name: "难哄",
    path: "https://res.wx.qq.com/voice/getvoice?mediaid=MzA4Mzk1NzY3Ml8xMDAwMDQ0Mzg=",
-   img: "https://cdn.jsdelivr.net/gh/yife68/iCat-Pic@v3.0.1/2022/02.14/2.png",
+   img: "https://yife68.gitee.io/icat-pic-2022/01/13/2.png",
    singer: "第十一集"
  },
  {
-   name: "如果月亮不抱你",
+   name: "难哄",
    path: "https://res.wx.qq.com/voice/getvoice?mediaid=MzA4Mzk1NzY3Ml8xMDAwMDQ0Mzk=",
-   img: "https://cdn.jsdelivr.net/gh/yife68/iCat-Pic@v3.0.1/2022/02.14/2.png",
+   img: "https://yife68.gitee.io/icat-pic-2022/01/13/2.png",
    singer: "第十二集"
  },
  {
-   name: "如果月亮不抱你",
+   name: "难哄",
    path: "https://res.wx.qq.com/voice/getvoice?mediaid=MzA4Mzk1NzY3Ml8xMDAwMDQ0NDI=",
-   img: "https://cdn.jsdelivr.net/gh/yife68/iCat-Pic@v3.0.1/2022/02.14/2.png",
+   img: "https://yife68.gitee.io/icat-pic-2022/01/13/2.png",
    singer: "第十三集"
  },
  {
-   name: "如果月亮不抱你",
+   name: "难哄",
    path: "https://res.wx.qq.com/voice/getvoice?mediaid=MzA4Mzk1NzY3Ml8xMDAwMDQ0NDE=",
-   img: "https://cdn.jsdelivr.net/gh/yife68/iCat-Pic@v3.0.1/2022/02.14/2.png",
+   img: "https://yife68.gitee.io/icat-pic-2022/01/13/2.png",
    singer: "第十四集"
  },
  {
-   name: "如果月亮不抱你",
+   name: "难哄",
    path: "https://res.wx.qq.com/voice/getvoice?mediaid=MzA4Mzk1NzY3Ml8xMDAwMDQ0NDM=",
-   img: "https://cdn.jsdelivr.net/gh/yife68/iCat-Pic@v3.0.1/2022/02.14/2.png",
+   img: "https://yife68.gitee.io/icat-pic-2022/01/13/2.png",
    singer: "第十五集"
  },
  {
-   name: "如果月亮不抱你",
+   name: "难哄",
    path: "https://res.wx.qq.com/voice/getvoice?mediaid=MzA4Mzk1NzY3Ml8xMDAwMDQ0NDQ=",
-   img: "https://cdn.jsdelivr.net/gh/yife68/iCat-Pic@v3.0.1/2022/02.14/2.png",
+   img: "https://yife68.gitee.io/icat-pic-2022/01/13/2.png",
    singer: "第十六集"
  },
  {
-   name: "如果月亮不抱你",
+   name: "难哄",
    path: "https://res.wx.qq.com/voice/getvoice?mediaid=MzA4Mzk1NzY3Ml8xMDAwMDQ0NDU=",
-   img: "https://cdn.jsdelivr.net/gh/yife68/iCat-Pic@v3.0.1/2022/02.14/2.png",
+   img: "https://yife68.gitee.io/icat-pic-2022/01/13/2.png",
    singer: "第十七集"
  },
  {
-   name: "如果月亮不抱你",
+   name: "难哄",
    path: "https://res.wx.qq.com/voice/getvoice?mediaid=MzA4Mzk1NzY3Ml8xMDAwMDQ0NDY=",
-   img: "https://cdn.jsdelivr.net/gh/yife68/iCat-Pic@v3.0.1/2022/02.14/2.png",
+   img: "https://yife68.gitee.io/icat-pic-2022/01/13/2.png",
    singer: "第十八集"
  },
  {
-   name: "如果月亮不抱你",
+   name: "难哄",
    path: "https://res.wx.qq.com/voice/getvoice?mediaid=MzA4Mzk1NzY3Ml8xMDAwMDQ0NDc=",
-   img: "https://cdn.jsdelivr.net/gh/yife68/iCat-Pic@v3.0.1/2022/02.14/2.png",
+   img: "https://yife68.gitee.io/icat-pic-2022/01/13/2.png",
    singer: "第十九集"
  },
  {
-   name: "如果月亮不抱你",
+   name: "难哄",
    path: "https://res.wx.qq.com/voice/getvoice?mediaid=MzA4Mzk1NzY3Ml8xMDAwMDQ0NDg=",
-   img: "https://cdn.jsdelivr.net/gh/yife68/iCat-Pic@v3.0.1/2022/02.14/2.png",
+   img: "https://yife68.gitee.io/icat-pic-2022/01/13/2.png",
    singer: "第二十集"
  }
 ];

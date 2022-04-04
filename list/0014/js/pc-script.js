@@ -29,145 +29,145 @@ let All_song = [
    {
      name: "偷偷藏不住",
      path: "https://res.wx.qq.com/voice/getvoice?mediaid=MzA4Mzk1NzY3Ml8xMDAwMDQyNTI=",
-     img: "https://cdn.jsdelivr.net/gh/yife68/iCat-Pic@v3.0.1/2022/02.14/1.png",
+     img: "https://yife68.gitee.io/icat-pic-2022/01/04/5.png",
      singer: "第一集"
    },
    {
      name: "偷偷藏不住",
      path: "https://res.wx.qq.com/voice/getvoice?mediaid=MzA4Mzk1NzY3Ml8xMDAwMDQyNTM=",
-     img: "https://cdn.jsdelivr.net/gh/yife68/iCat-Pic@v3.0.1/2022/02.14/1.png",
+     img: "https://yife68.gitee.io/icat-pic-2022/01/04/5.png",
      singer: "第二集"
    },
    {
      name: "偷偷藏不住",
      path: "https://res.wx.qq.com/voice/getvoice?mediaid=MzA4Mzk1NzY3Ml8xMDAwMDQyNTQ=",
-     img: "https://cdn.jsdelivr.net/gh/yife68/iCat-Pic@v3.0.1/2022/02.14/1.png",
+     img: "https://yife68.gitee.io/icat-pic-2022/01/04/5.png",
      singer: "第三集"
    },
    {
      name: "偷偷藏不住",
      path: "https://res.wx.qq.com/voice/getvoice?mediaid=MzA4Mzk1NzY3Ml8xMDAwMDQyNTU=",
-     img: "https://cdn.jsdelivr.net/gh/yife68/iCat-Pic@v3.0.1/2022/02.14/1.png",
+     img: "https://yife68.gitee.io/icat-pic-2022/01/04/5.png",
      singer: "第四集"
    },
    {
     name: "偷偷藏不住",
     path: "https://res.wx.qq.com/voice/getvoice?mediaid=MzA4Mzk1NzY3Ml8xMDAwMDQyNTY=",
-    img: "https://cdn.jsdelivr.net/gh/yife68/iCat-Pic@v3.0.1/2022/02.14/1.png",
+    img: "https://yife68.gitee.io/icat-pic-2022/01/04/5.png",
     singer: "第五集"
   },
   {
     name: "偷偷藏不住",
     path: "https://res.wx.qq.com/voice/getvoice?mediaid=MzA4Mzk1NzY3Ml8xMDAwMDQyNTc=",
-    img: "https://cdn.jsdelivr.net/gh/yife68/iCat-Pic@v3.0.1/2022/02.14/1.png",
+    img: "https://yife68.gitee.io/icat-pic-2022/01/04/5.png",
     singer: "第六集"
   },
   {
     name: "偷偷藏不住",
     path: "https://res.wx.qq.com/voice/getvoice?mediaid=MzA4Mzk1NzY3Ml8xMDAwMDQyNTg=",
-    img: "https://cdn.jsdelivr.net/gh/yife68/iCat-Pic@v3.0.1/2022/02.14/1.png",
+    img: "https://yife68.gitee.io/icat-pic-2022/01/04/5.png",
     singer: "第七集"
   },
   {
     name: "偷偷藏不住",
     path: "https://res.wx.qq.com/voice/getvoice?mediaid=MzA4Mzk1NzY3Ml8xMDAwMDQyODg=",
-    img: "https://cdn.jsdelivr.net/gh/yife68/iCat-Pic@v3.0.1/2022/02.14/1.png",
+    img: "https://yife68.gitee.io/icat-pic-2022/01/04/5.png",
     singer: "第八集"
   },
   {
     name: "偷偷藏不住",
     path: "https://res.wx.qq.com/voice/getvoice?mediaid=MzA4Mzk1NzY3Ml8xMDAwMDQyODk=",
-    img: "https://cdn.jsdelivr.net/gh/yife68/iCat-Pic@v3.0.1/2022/02.14/1.png",
+    img: "https://yife68.gitee.io/icat-pic-2022/01/04/5.png",
     singer: "第九集"
   },
   {
     name: "偷偷藏不住",
     path: "https://res.wx.qq.com/voice/getvoice?mediaid=MzA4Mzk1NzY3Ml8xMDAwMDQyOTA=",
-    img: "https://cdn.jsdelivr.net/gh/yife68/iCat-Pic@v3.0.1/2022/02.14/1.png",
+    img: "https://yife68.gitee.io/icat-pic-2022/01/04/5.png",
     singer: "第十集"
   },
   {
     name: "偷偷藏不住",
     path: "https://res.wx.qq.com/voice/getvoice?mediaid=MzA4Mzk1NzY3Ml8xMDAwMDQyOTE=",
-    img: "https://cdn.jsdelivr.net/gh/yife68/iCat-Pic@v3.0.1/2022/02.14/1.png",
+    img: "https://yife68.gitee.io/icat-pic-2022/01/04/5.png",
     singer: "第十一集"
   },
   {
     name: "偷偷藏不住",
     path: "https://res.wx.qq.com/voice/getvoice?mediaid=MzA4Mzk1NzY3Ml8xMDAwMDQyOTI=",
-    img: "https://cdn.jsdelivr.net/gh/yife68/iCat-Pic@v3.0.1/2022/02.14/1.png",
+    img: "https://yife68.gitee.io/icat-pic-2022/01/04/5.png",
     singer: "第十二集"
   },
   {
     name: "偷偷藏不住",
     path: "https://res.wx.qq.com/voice/getvoice?mediaid=MzA4Mzk1NzY3Ml8xMDAwMDQyOTM=",
-    img: "https://cdn.jsdelivr.net/gh/yife68/iCat-Pic@v3.0.1/2022/02.14/1.png",
+    img: "https://yife68.gitee.io/icat-pic-2022/01/04/5.png",
     singer: "第十三集"
   },
   {
     name: "偷偷藏不住",
     path: "https://res.wx.qq.com/voice/getvoice?mediaid=MzA4Mzk1NzY3Ml8xMDAwMDQyOTQ=",
-    img: "https://cdn.jsdelivr.net/gh/yife68/iCat-Pic@v3.0.1/2022/02.14/1.png",
+    img: "https://yife68.gitee.io/icat-pic-2022/01/04/5.png",
     singer: "第十四集"
   },
   {
     name: "偷偷藏不住",
     path: "https://res.wx.qq.com/voice/getvoice?mediaid=MzA4Mzk1NzY3Ml8xMDAwMDQyOTU=",
-    img: "https://cdn.jsdelivr.net/gh/yife68/iCat-Pic@v3.0.1/2022/02.14/1.png",
+    img: "https://yife68.gitee.io/icat-pic-2022/01/04/5.png",
     singer: "第十五集"
   },
   {
     name: "偷偷藏不住",
     path: "https://res.wx.qq.com/voice/getvoice?mediaid=MzA4Mzk1NzY3Ml8xMDAwMDQyOTY=",
-    img: "https://cdn.jsdelivr.net/gh/yife68/iCat-Pic@v3.0.1/2022/02.14/1.png",
+    img: "https://yife68.gitee.io/icat-pic-2022/01/04/5.png",
     singer: "第十六集"
   },
   {
     name: "偷偷藏不住",
     path: "https://res.wx.qq.com/voice/getvoice?mediaid=MzA4Mzk1NzY3Ml8xMDAwMDQyOTc=",
-    img: "https://cdn.jsdelivr.net/gh/yife68/iCat-Pic@v3.0.1/2022/02.14/1.png",
+    img: "https://yife68.gitee.io/icat-pic-2022/01/04/5.png",
     singer: "第十七集"
   },
   {
     name: "偷偷藏不住",
     path: "https://res.wx.qq.com/voice/getvoice?mediaid=MzA4Mzk1NzY3Ml8xMDAwMDQyOTg=",
-    img: "https://cdn.jsdelivr.net/gh/yife68/iCat-Pic@v3.0.1/2022/02.14/1.png",
+    img: "https://yife68.gitee.io/icat-pic-2022/01/04/5.png",
     singer: "第十八集"
   },
   {
     name: "偷偷藏不住",
     path: "https://res.wx.qq.com/voice/getvoice?mediaid=MzA4Mzk1NzY3Ml8xMDAwMDQyOTk=",
-    img: "https://cdn.jsdelivr.net/gh/yife68/iCat-Pic@v3.0.1/2022/02.14/1.png",
+    img: "https://yife68.gitee.io/icat-pic-2022/01/04/5.png",
     singer: "第十九集"
   },
   {
     name: "偷偷藏不住",
     path: "https://res.wx.qq.com/voice/getvoice?mediaid=MzA4Mzk1NzY3Ml8xMDAwMDQzMDA=",
-    img: "https://cdn.jsdelivr.net/gh/yife68/iCat-Pic@v3.0.1/2022/02.14/1.png",
+    img: "https://yife68.gitee.io/icat-pic-2022/01/04/5.png",
     singer: "第二十集"
   },
   {
     name: "偷偷藏不住",
     path: "https://res.wx.qq.com/voice/getvoice?mediaid=MzA4Mzk1NzY3Ml8xMDAwMDQzMDE=",
-    img: "https://cdn.jsdelivr.net/gh/yife68/iCat-Pic@v3.0.1/2022/02.14/1.png",
+    img: "https://yife68.gitee.io/icat-pic-2022/01/04/5.png",
     singer: "番外1"
   },
   {
     name: "偷偷藏不住",
     path: "https://res.wx.qq.com/voice/getvoice?mediaid=MzA4Mzk1NzY3Ml8xMDAwMDQzMDI=",
-    img: "https://cdn.jsdelivr.net/gh/yife68/iCat-Pic@v3.0.1/2022/02.14/1.png",
+    img: "https://yife68.gitee.io/icat-pic-2022/01/04/5.png",
     singer: "番外2"
   },
   {
     name: "偷偷藏不住",
     path: "https://res.wx.qq.com/voice/getvoice?mediaid=MzA4Mzk1NzY3Ml8xMDAwMDQzMDM=",
-    img: "https://cdn.jsdelivr.net/gh/yife68/iCat-Pic@v3.0.1/2022/02.14/1.png",
+    img: "https://yife68.gitee.io/icat-pic-2022/01/04/5.png",
     singer: "番外3"
   },
    {
      name: "偷偷藏不住",
      path: "https://res.wx.qq.com/voice/getvoice?mediaid=MzA4Mzk1NzY3Ml8xMDAwMDQzMDQ=",
-     img: "https://cdn.jsdelivr.net/gh/yife68/iCat-Pic@v3.0.1/2022/02.14/1.png",
+     img: "https://yife68.gitee.io/icat-pic-2022/01/04/5.png",
      singer: "番外4"
    }
 ];

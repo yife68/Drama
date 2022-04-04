@@ -28,7 +28,7 @@ let All_song = [
   {
     name: "汀南丝雨",
     path: "https://res.wx.qq.com/voice/getvoice?mediaid=MzkyOTI3MTA4MV8xMDAwMDAzMTI=",
-    img: "https://cdn.jsdelivr.net/gh/yife68/iCat-Pic@v3.0.1/2022/02.14/7.png",
+    img: "https://yife68.gitee.io/icat-pic-2022/01/29/2.png",
     singer: "第一集"
   }
 ];

@@ -28,85 +28,85 @@ let All_song = [
   {
     name: "白日梦我 第一季",
     path: "https://res.wx.qq.com/voice/getvoice?mediaid=MzkyOTI3MTA4MV8xMDAwMDAxNDk=",
-    img: "https://cdn.jsdelivr.net/gh/yife68/iCat-Pic@v3.0.1/2022/02.14/4.png",
+    img: "https://yife68.gitee.io/icat-pic-2022/01/20/2.png",
     singer: "第一集"
   },
   {
     name: "白日梦我 第一季",
     path: "https://res.wx.qq.com/voice/getvoice?mediaid=MzkyOTI3MTA4MV8xMDAwMDAxNTA=",
-    img: "https://cdn.jsdelivr.net/gh/yife68/iCat-Pic@v3.0.1/2022/02.14/4.png",
+    img: "https://yife68.gitee.io/icat-pic-2022/01/20/2.png",
     singer: "第二集"
   },
   {
     name: "白日梦我 第一季",
     path: "https://res.wx.qq.com/voice/getvoice?mediaid=MzkyOTI3MTA4MV8xMDAwMDAxNTE=",
-    img: "https://cdn.jsdelivr.net/gh/yife68/iCat-Pic@v3.0.1/2022/02.14/4.png",
+    img: "https://yife68.gitee.io/icat-pic-2022/01/20/2.png",
     singer: "第三集"
   },
   {
     name: "白日梦我 第一季",
     path: "https://res.wx.qq.com/voice/getvoice?mediaid=MzkyOTI3MTA4MV8xMDAwMDAxNTI=",
-    img: "https://cdn.jsdelivr.net/gh/yife68/iCat-Pic@v3.0.1/2022/02.14/4.png",
+    img: "https://yife68.gitee.io/icat-pic-2022/01/20/2.png",
     singer: "第四集"
   },
   {
    name: "白日梦我 第一季",
    path: "https://res.wx.qq.com/voice/getvoice?mediaid=MzkyOTI3MTA4MV8xMDAwMDAxNTM=",
-   img: "https://cdn.jsdelivr.net/gh/yife68/iCat-Pic@v3.0.1/2022/02.14/4.png",
+   img: "https://yife68.gitee.io/icat-pic-2022/01/20/2.png",
    singer: "第五集"
  },
  {
    name: "白日梦我 第一季",
    path: "https://res.wx.qq.com/voice/getvoice?mediaid=MzkyOTI3MTA4MV8xMDAwMDAxNTQ=",
-   img: "https://cdn.jsdelivr.net/gh/yife68/iCat-Pic@v3.0.1/2022/02.14/4.png",
+   img: "https://yife68.gitee.io/icat-pic-2022/01/20/2.png",
    singer: "第六集"
  },
  {
    name: "白日梦我 第一季",
    path: "https://res.wx.qq.com/voice/getvoice?mediaid=MzkyOTI3MTA4MV8xMDAwMDAxNTU=",
-   img: "https://cdn.jsdelivr.net/gh/yife68/iCat-Pic@v3.0.1/2022/02.14/4.png",
+   img: "https://yife68.gitee.io/icat-pic-2022/01/20/2.png",
    singer: "第七集"
  },
  {
    name: "白日梦我 第一季",
    path: "https://res.wx.qq.com/voice/getvoice?mediaid=MzkyOTI3MTA4MV8xMDAwMDAxNTY=",
-   img: "https://cdn.jsdelivr.net/gh/yife68/iCat-Pic@v3.0.1/2022/02.14/4.png",
+   img: "https://yife68.gitee.io/icat-pic-2022/01/20/2.png",
    singer: "第八集"
  },
  {
    name: "白日梦我 第一季",
    path: "https://res.wx.qq.com/voice/getvoice?mediaid=MzkyOTI3MTA4MV8xMDAwMDAxNTc=",
-   img: "https://cdn.jsdelivr.net/gh/yife68/iCat-Pic@v3.0.1/2022/02.14/4.png",
+   img: "https://yife68.gitee.io/icat-pic-2022/01/20/2.png",
    singer: "第九集"
  },
  {
    name: "白日梦我 第一季",
    path: "https://res.wx.qq.com/voice/getvoice?mediaid=MzkyOTI3MTA4MV8xMDAwMDAxNjE=",
-   img: "https://cdn.jsdelivr.net/gh/yife68/iCat-Pic@v3.0.1/2022/02.14/4.png",
+   img: "https://yife68.gitee.io/icat-pic-2022/01/20/2.png",
    singer: "第十集"
  },
  {
    name: "白日梦我 第一季",
    path: "https://res.wx.qq.com/voice/getvoice?mediaid=MzkyOTI3MTA4MV8xMDAwMDAxNTk=",
-   img: "https://cdn.jsdelivr.net/gh/yife68/iCat-Pic@v3.0.1/2022/02.14/4.png",
+   img: "https://yife68.gitee.io/icat-pic-2022/01/20/2.png",
    singer: "第十一集"
  },
  {
    name: "白日梦我 第一季",
    path: "https://res.wx.qq.com/voice/getvoice?mediaid=MzkyOTI3MTA4MV8xMDAwMDAxNjA=",
-   img: "https://cdn.jsdelivr.net/gh/yife68/iCat-Pic@v3.0.1/2022/02.14/4.png",
+   img: "https://yife68.gitee.io/icat-pic-2022/01/20/2.png",
    singer: "第十二集"
  },
  {
    name: "白日梦我 第一季",
    path: "https://res.wx.qq.com/voice/getvoice?mediaid=MzkyOTI3MTA4MV8xMDAwMDAxNjI=",
-   img: "https://cdn.jsdelivr.net/gh/yife68/iCat-Pic@v3.0.1/2022/02.14/4.png",
+   img: "https://yife68.gitee.io/icat-pic-2022/01/20/2.png",
    singer: "第十三集"
  },
  {
    name: "白日梦我 第一季",
    path: "https://res.wx.qq.com/voice/getvoice?mediaid=MzkyOTI3MTA4MV8xMDAwMDAxNjM=",
-   img: "https://cdn.jsdelivr.net/gh/yife68/iCat-Pic@v3.0.1/2022/02.14/4.png",
+   img: "https://yife68.gitee.io/icat-pic-2022/01/20/2.png",
    singer: "第十四集"
  }
 ];
