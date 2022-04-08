@@ -102,6 +102,12 @@ let All_song = [
    path: "https://res.wx.qq.com/voice/getvoice?mediaid=MzkyOTI3MTA4MV8xMDAwMDA2MTQ=",
    img: "https://yife68.gitee.io/icat-pic-2022/03/03/3.png",
    singer: "第十三集"
+ },
+ {
+   name: "重生之将门毒后",
+   path: "https://res.wx.qq.com/voice/getvoice?mediaid=MzkyOTI3MTA4MV8xMDAwMDA2ODE=",
+   img: "https://yife68.gitee.io/icat-pic-2022/03/03/3.png",
+   singer: "第十四集"
  }
 ];
 
