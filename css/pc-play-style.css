@@ -47,7 +47,7 @@
   
   /* song image */
   .left img{
-    height: 300px;
+    /* height: 300px; */
     width: 80%;
     border-radius: 15px;
     box-shadow: 1px 0px 20px 12px rgba(240,240,240,0.2);
