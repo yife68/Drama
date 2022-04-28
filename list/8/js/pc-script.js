@@ -109,6 +109,18 @@ let All_song = [
    path: "https://res.wx.qq.com/voice/getvoice?mediaid=MzkyOTI3MTA4MV8xMDAwMDA2ODE=",
    img: "https://yife68.gitee.io/icat-pic-2022/Drama/8.png",
    singer: "第十四集"
+ },
+ {
+   name: "重生之将门毒后",
+   path: "https://res.wx.qq.com/voice/getvoice?mediaid=MzkyOTI3MTA4MV8xMDAwMDA4ODE=",
+   img: "https://yife68.gitee.io/icat-pic-2022/Drama/8.png",
+   singer: "第十五集"
+ },
+ {
+   name: "重生之将门毒后",
+   path: "https://res.wx.qq.com/voice/getvoice?mediaid=MzkyOTI3MTA4MV8xMDAwMDA4ODI=",
+   img: "https://yife68.gitee.io/icat-pic-2022/Drama/8.png",
+   singer: "第十六集"
  }
 ];
 
